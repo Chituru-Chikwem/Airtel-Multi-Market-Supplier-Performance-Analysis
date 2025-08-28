@@ -1,0 +1,101 @@
+Supplier_ID,Supplier_Name,Region,Performance_Score,Monthly_Revenue_USD,Operational_Efficiency_Pct,Regulatory_Compliance
+SUP_0001,Port Harcourt_Supplier_1,Ibadan,90.93,280207.45,28.15,88.07
+SUP_0002,Benin City_Supplier_2,Abuja,94.79,89748.60,36.27,84.58
+SUP_0003,Ibadan_Supplier_3,Benin City,99.42,89815.58,31.34,97.73
+SUP_0004,Lagos_Supplier_4,Port Harcourt,69.10,295445.36,44.77,81.40
+SUP_0005,Abuja_Supplier_5,Kano,81.26,336779.55,35.69,91.52
+SUP_0006,Port Harcourt_Supplier_6,Ibadan,72.63,257514.51,47.50,99.88
+SUP_0007,Lagos_Supplier_7,Port Harcourt,78.05,307363.82,46.36,99.46
+SUP_0008,Kano_Supplier_8,Port Harcourt,75.09,250747.34,28.63,97.47
+SUP_0009,Kano_Supplier_9,Benin City,90.47,145241.65,38.88,93.32
+SUP_0010,Kano_Supplier_10,Abuja,86.34,149314.95,41.68,88.14
+SUP_0011,Kano_Supplier_11,Ibadan,69.55,268253.81,39.56,89.90
+SUP_0012,Kano_Supplier_12,Lagos,60.73,325764.11,46.86,95.59
+SUP_0013,Lagos_Supplier_13,Port Harcourt,93.28,447227.84,35.57,82.97
+SUP_0014,Lagos_Supplier_14,Ibadan,61.81,290032.51,32.12,82.27
+SUP_0015,Lagos_Supplier_15,Abuja,99.24,405552.93,27.65,80.21
+SUP_0016,Abuja_Supplier_16,Lagos,82.95,329175.80,43.79,89.33
+SUP_0017,Ibadan_Supplier_17,Lagos,77.49,229025.17,26.65,95.65
+SUP_0018,Port Harcourt_Supplier_18,Lagos,77.33,167865.82,27.25,82.93
+SUP_0019,Lagos_Supplier_19,Benin City,66.13,355125.44,43.38,89.80
+SUP_0020,Kano_Supplier_20,Kano,65.29,64778.93,34.78,90.46
+SUP_0021,Lagos_Supplier_21,Lagos,60.87,164648.41,49.17,94.91
+SUP_0022,Port Harcourt_Supplier_22,Ibadan,60.20,468000.23,28.03,87.52
+SUP_0023,Abuja_Supplier_23,Benin City,67.43,173630.93,42.93,80.49
+SUP_0024,Kano_Supplier_24,Abuja,97.32,172850.68,42.03,94.25
+SUP_0025,Ibadan_Supplier_25,Lagos,72.27,253913.45,38.62,82.34
+SUP_0026,Benin City_Supplier_26,Benin City,91.23,304929.79,36.59,97.73
+SUP_0027,Port Harcourt_Supplier_27,Abuja,95.44,343424.17,37.76,87.86
+SUP_0028,Benin City_Supplier_28,Ibadan,63.64,154271.57,37.18,88.69
+SUP_0029,Port Harcourt_Supplier_29,Kano,67.36,305293.66,41.90,91.84
+SUP_0030,Abuja_Supplier_30,Lagos,77.85,58526.71,42.94,80.77
+SUP_0031,Abuja_Supplier_31,Kano,90.04,179599.56,38.37,93.13
+SUP_0032,Ibadan_Supplier_32,Abuja,99.28,493857.33,42.54,86.53
+SUP_0033,Benin City_Supplier_33,Lagos,90.68,220165.87,42.16,82.14
+SUP_0034,Abuja_Supplier_34,Benin City,75.97,177599.97,34.73,90.98
+SUP_0035,Benin City_Supplier_35,Benin City,89.98,346831.64,47.53,94.16
+SUP_0036,Abuja_Supplier_36,Port Harcourt,91.88,126974.43,25.87,86.64
+SUP_0037,Port Harcourt_Supplier_37,Lagos,65.82,114636.36,27.06,80.59
+SUP_0038,Ibadan_Supplier_38,Benin City,94.59,97056.63,34.25,81.46
+SUP_0039,Port Harcourt_Supplier_39,Abuja,75.76,241476.59,30.20,89.27
+SUP_0040,Abuja_Supplier_40,Port Harcourt,83.08,299563.05,40.24,84.81
+SUP_0041,Lagos_Supplier_41,Ibadan,85.54,197529.29,35.29,82.90
+SUP_0042,Abuja_Supplier_42,Benin City,98.47,120092.88,36.86,90.93
+SUP_0043,Ibadan_Supplier_43,Lagos,94.27,481831.91,47.30,98.60
+SUP_0044,Lagos_Supplier_44,Abuja,97.13,183964.37,49.36,87.72
+SUP_0045,Abuja_Supplier_45,Ibadan,70.89,368311.01,33.96,96.15
+SUP_0046,Port Harcourt_Supplier_46,Kano,70.81,191478.82,41.31,84.68
+SUP_0047,Lagos_Supplier_47,Port Harcourt,85.83,391253.42,25.36,98.99
+SUP_0048,Ibadan_Supplier_48,Port Harcourt,88.40,182537.41,38.06,88.36
+SUP_0049,Kano_Supplier_49,Port Harcourt,87.14,403088.62,35.85,98.29
+SUP_0050,Ibadan_Supplier_50,Abuja,80.31,463753.40,36.68,94.97
+SUP_0051,Port Harcourt_Supplier_51,Abuja,66.98,132091.38,29.48,92.63
+SUP_0052,Kano_Supplier_52,Kano,76.52,131605.68,46.87,82.62
+SUP_0053,Ibadan_Supplier_53,Kano,68.66,497184.36,28.03,95.06
+SUP_0054,Kano_Supplier_54,Lagos,75.24,364112.46,41.46,91.54
+SUP_0055,Abuja_Supplier_55,Abuja,97.33,357633.12,26.62,89.78
+SUP_0056,Abuja_Supplier_56,Kano,91.31,407389.51,32.46,88.64
+SUP_0057,Ibadan_Supplier_57,Benin City,93.40,76175.48,38.21,80.06
+SUP_0058,Lagos_Supplier_58,Ibadan,78.68,452742.23,47.08,93.05
+SUP_0059,Port Harcourt_Supplier_59,Abuja,92.07,218158.02,49.77,96.24
+SUP_0060,Abuja_Supplier_60,Kano,92.63,67494.91,28.13,95.22
+SUP_0061,Port Harcourt_Supplier_61,Lagos,69.11,316500.19,38.35,90.88
+SUP_0062,Abuja_Supplier_62,Ibadan,74.68,102736.01,35.17,93.22
+SUP_0063,Lagos_Supplier_63,Ibadan,95.60,160674.19,40.67,94.41
+SUP_0064,Ibadan_Supplier_64,Benin City,92.85,205441.76,45.02,88.40
+SUP_0065,Kano_Supplier_65,Kano,67.02,348035.16,47.09,96.66
+SUP_0066,Abuja_Supplier_66,Ibadan,95.46,395411.23,32.68,93.28
+SUP_0067,Port Harcourt_Supplier_67,Ibadan,64.84,366696.71,45.67,83.03
+SUP_0068,Abuja_Supplier_68,Ibadan,84.64,493841.16,28.50,85.39
+SUP_0069,Lagos_Supplier_69,Port Harcourt,82.19,378273.88,26.19,87.18
+SUP_0070,Abuja_Supplier_70,Ibadan,63.77,416094.12,35.63,96.74
+SUP_0071,Port Harcourt_Supplier_71,Port Harcourt,67.67,177365.33,34.12,85.22
+SUP_0072,Abuja_Supplier_72,Benin City,68.37,319416.17,32.21,97.23
+SUP_0073,Lagos_Supplier_73,Kano,81.85,147392.99,47.95,98.56
+SUP_0074,Abuja_Supplier_74,Benin City,61.52,65452.69,46.41,87.76
+SUP_0075,Ibadan_Supplier_75,Benin City,64.51,261413.73,28.24,95.73
+SUP_0076,Lagos_Supplier_76,Benin City,96.93,168151.86,26.22,96.54
+SUP_0077,Abuja_Supplier_77,Kano,64.66,458379.87,48.66,95.62
+SUP_0078,Port Harcourt_Supplier_78,Abuja,81.09,56687.32,34.08,99.78
+SUP_0079,Benin City_Supplier_79,Lagos,77.53,238846.35,33.84,91.99
+SUP_0080,Ibadan_Supplier_80,Benin City,98.60,125232.10,32.78,81.20
+SUP_0081,Ibadan_Supplier_81,Lagos,70.89,118857.00,37.97,87.21
+SUP_0082,Lagos_Supplier_82,Abuja,75.24,333353.49,30.93,80.83
+SUP_0083,Port Harcourt_Supplier_83,Benin City,97.92,443160.71,39.18,89.35
+SUP_0084,Lagos_Supplier_84,Port Harcourt,73.97,383722.13,40.40,88.78
+SUP_0085,Benin City_Supplier_85,Benin City,97.84,114416.69,39.57,81.38
+SUP_0086,Benin City_Supplier_86,Ibadan,79.97,66130.67,31.64,94.07
+SUP_0087,Kano_Supplier_87,Benin City,79.33,191638.54,43.31,90.54
+SUP_0088,Ibadan_Supplier_88,Abuja,85.90,364782.73,27.80,83.04
+SUP_0089,Benin City_Supplier_89,Port Harcourt,89.09,115984.76,41.24,94.31
+SUP_0090,Kano_Supplier_90,Lagos,87.65,376533.79,35.27,92.49
+SUP_0091,Lagos_Supplier_91,Ibadan,63.03,383080.23,34.46,85.68
+SUP_0092,Kano_Supplier_92,Ibadan,86.72,262635.99,36.69,91.87
+SUP_0093,Lagos_Supplier_93,Benin City,80.02,157921.22,26.76,84.95
+SUP_0094,Ibadan_Supplier_94,Ibadan,91.73,221023.93,28.32,95.05
+SUP_0095,Ibadan_Supplier_95,Benin City,76.45,282725.31,43.60,95.77
+SUP_0096,Lagos_Supplier_96,Port Harcourt,82.38,477607.26,28.20,84.67
+SUP_0097,Benin City_Supplier_97,Kano,94.07,153348.45,49.32,96.01
+SUP_0098,Abuja_Supplier_98,Kano,88.00,89946.03,47.24,93.09
+SUP_0099,Port Harcourt_Supplier_99,Kano,89.39,374137.15,48.46,94.20
+SUP_0100,Benin City_Supplier_100,Ibadan,97.44,167694.53,48.36,82.79
